@@ -6,7 +6,7 @@ Created by: **Simcha Coleman**
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the program running:
 
 <img src='walkthroughGif.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
